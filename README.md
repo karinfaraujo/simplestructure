@@ -1,27 +1,26 @@
-# package_name
+# simplestructure
 
 Description. 
-The package package_name is used to:
-	- 
+The package simplestructure is used to:
+	- Create a package using the simple structure of a module.
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
-
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simplestructure
 ```bash
-pip install package_name
+pip install simplestructure
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from simplestructure import file1_name
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Karin
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
